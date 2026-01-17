@@ -48,7 +48,8 @@
       "dist/credentials/LateNode.credentials.js"
     ],
     "nodes": [
-      "dist/late/Late.node.js"
+       "dist/nodes/Late/Late.node.js",
+       "dist/nodes/Late/LateGenericPost.node.js"
     ]
   },
   "files": [
